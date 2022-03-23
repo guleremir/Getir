@@ -1,3 +1,9 @@
+# Images
+![1](https://github.com/guleremir/Getir/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(35).png)
+![2](https://github.com/guleremir/Getir/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(36).png)
+![3](https://github.com/guleremir/Getir/blob/main/images/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(37).png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
